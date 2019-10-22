@@ -1,13 +1,12 @@
-- Cambios
+- Cambios por VICE
 
-
-5. Facturación de Tickets a nombre de otros
+5. FacturaciÃ³n de Tickets a nombre de otros
 8. Consolidado por producto, por placa
-7. Guias de remisión, orden de compra y otros en los comprobantes
+7. Guias de remisiÃ³n, orden de compra y otros en los comprobantes
 10. Comprobantes con fecha abierta
 1. Registro de Chofer en los puntos de venta
 6. Detalle del despacho en los comprobantes
-2. Reporte de Liquidación
+2. Reporte de LiquidaciÃ³n
 3. Punto de Venta de Otros Productos
 9. Salidas de dinero
 4. Base de datos independientes
